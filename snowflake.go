@@ -1,6 +1,7 @@
 // MIT License
 
 // Copyright (c) 2022 Project-Sparrow
+// Copyright (c) 2023 Kelwing <kelwing@kelnet.org>
 
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal

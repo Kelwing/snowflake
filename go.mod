@@ -1,3 +1,3 @@
-module github.com/Project-Sparrow/snowflake
+module wumpgo.dev/snowflake
 
-go 1.19
+go 1.20
